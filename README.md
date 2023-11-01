@@ -4,15 +4,15 @@ A user management api that is built using javascript, Nodejs, Mongodb. It allows
 
 # Features
 
-Signup
-Login
-Fetch All Users
-Fetch a User with a ID
-Delete User with a ID
+1. Signup
+2. Login
+3. Fetch All Users
+4. Fetch a User with a ID
+5. Delete User with a ID
 
 # Installation
 
 You have to install nodejs and Mongodb to run this Api on your local machine. Follow this step once installed:
 
-Run npm install to install dependencies
-Run npm start
+1. Run npm install to install dependencies
+2. Run npm start
